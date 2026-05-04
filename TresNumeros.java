@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class TresNumeros {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("===========Datos De Numeros==========");2
-        
+        System.out.println("===========Datos De Numeros==========");
+
 
         System.out.print("Ingresa el primer número: ");
         int a = sc.nextInt();
